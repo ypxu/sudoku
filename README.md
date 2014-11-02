@@ -11,7 +11,11 @@ Sudoku Solver
         -h --help       Show help message
         -v --version    Show version
     ```
-    * Example, assuming input file is sudoku.csv, output file is solution.csv
+    * Example 
+    ```
+    # assuming input file is sudoku.csv, output file is solution.csv
+
     ./solver.py solve
+    ```
 
 * Sudoku Solver in Go (coming soon)
